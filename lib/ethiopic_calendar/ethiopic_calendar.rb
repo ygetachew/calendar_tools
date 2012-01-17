@@ -1,7 +1,0 @@
-module EthiopianCalendar
-  # Useful constants
-  JD_EPOCH_OFFSET_AMETE_ALEM   = -285019  #ዓ/ዓ
-  JD_EPOCH_OFFSET_AMETE_MIHRET = 1723856  #ዓ/ም
-  JD_EPOCH_OFFSET_COPTIC       = 1824665
-  JD_EPOCH_OFFSET_GREGORIAN    = 1721426
-  JD_EPOCH_OFFSET_UNSET        = -1 
